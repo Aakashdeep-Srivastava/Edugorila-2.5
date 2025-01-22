@@ -1,6 +1,6 @@
 # Text to AI Presenter Video 🎥
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ctABZFrmlKKf0LP1852PRUoX3uLswbtB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ctABZFrmlKKf0LP1852PRUoX3uLswbtB?usp=sharing)
 
 An automated system that converts text into educational videos featuring AI presenters. The system generates professional presentations with synchronized avatar animations, creating engaging educational content.
 
